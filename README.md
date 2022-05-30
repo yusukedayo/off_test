@@ -12,11 +12,11 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
-
+aiueo
 * Database initialization
 
 * How to run the test suite
-
+kakikukeko
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
